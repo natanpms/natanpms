@@ -3,7 +3,7 @@
   <table style="margin: 0 auto;" align="center">
     <tr>
       <td>
-        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanpms&layout=compact&theme=react&count_private=true"/>
+        <p>I'm a fullstack developer web with 3 years experience</p>
       </td>
     </tr>
   </table>
