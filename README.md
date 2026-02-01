@@ -18,7 +18,18 @@ Natan</a></h1>
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/natanpms">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		
   </div>
+</p>
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block"> stack I like to code</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,linux,aws,docker,postgres,prisma,mysql,figma,googlecloud,github,html,css,tailwindcss,js,nextjs,nodejs,nestjs,postman,react,redux,ts,php,laravel,vscode&perline=14" />
+  </a>
 </p>
