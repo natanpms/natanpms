@@ -8,9 +8,6 @@ Natan</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I am currently working on the Jarvis Assistance project. Jarvis is a mobile application designed to help you manage your finances and subscriptions, making everything dynamic, easy to maintain, and easy to monitor.
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
