@@ -27,6 +27,6 @@ Natan</a></h1>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,aws,docker,postgres,prisma,mysql,figma,googlecloud,github,html,css,tailwindcss,js,nextjs,nodejs,nestjs,postman,react,redux,ts,php,laravel,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,linux,aws,docker,postgres,mysql,figma,googlecloud,github,html,css,tailwindcss,js,nextjs,nodejs,postman,react,golang,ts,php,laravel,vscode&perline=14" />
   </a>
 </p>
